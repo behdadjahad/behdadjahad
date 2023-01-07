@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @behdadjahad
 - 👀 I’m interested in programming technologies and low level programming
-- 🌱 I’m currently working as a back-end programmer
+- 🌱 I’m currently working as a back-end developer
 - 💞️ I’m looking to collaborate on related topics
 - 📫 How to reach me : gmail:behdadja@gmail.com and linkedin:behdad jahad
 
